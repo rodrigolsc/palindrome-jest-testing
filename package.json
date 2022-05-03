@@ -1,0 +1,14 @@
+{
+  "name": "palindrome-jest-testing",
+  "version": "1.0.0",
+  "description": "Rodrigo Laugeni Scolfaro Caporici\r Matheus Freire Liberato",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rodrigo Laugeni, Matheus Liberato",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
